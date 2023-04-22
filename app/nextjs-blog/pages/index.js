@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
       <section className={utilStyles.headingMd}>
-        <p>Hi I'm Jane. I'm still learning how to code.</p>
+        <p>Hi I'm Sydney. I'm still learning how to code.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
