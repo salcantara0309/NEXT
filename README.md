@@ -13,3 +13,7 @@ working on debugging
 thanks sebastian
 
 id and posts
+
+forgot to update read me
+
+still moving directories around
