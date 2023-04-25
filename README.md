@@ -11,3 +11,5 @@ more updating
 working on debugging
 
 thanks sebastian
+
+id and posts
