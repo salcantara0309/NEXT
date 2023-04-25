@@ -17,3 +17,5 @@ id and posts
 forgot to update read me
 
 still moving directories around
+
+4/25 - dynamic routes (may need to revisit to relearn)
