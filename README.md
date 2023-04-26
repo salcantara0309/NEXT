@@ -21,3 +21,5 @@ still moving directories around
 4/25 - dynamic routes (may need to revisit to relearn)
 
 4/26 - began vercel account
+
+4/26 - test push
